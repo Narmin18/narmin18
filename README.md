@@ -48,6 +48,10 @@ https://github.com/narmin18/Complaint-registory
 System used to record and track user complaints.
 Focus: Record management workflow.
 
+### Query Performance Analyzer
+https://github.com/narmin18/query-performance-analyzer
+Analyzes SQL query performance and recommends optimization strategies.
+
 ---
 
 ## Currently Learning
