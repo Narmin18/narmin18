@@ -10,7 +10,7 @@ I enjoy building practical applications that manage data, monitor activity, and 
 
 * Python
 * SQL & Database Management
-* Java Basics
+* Java (OOP & Console Applications)
 * AWS Fundamentals
 * Problem Solving & Debugging
 
