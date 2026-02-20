@@ -1,4 +1,4 @@
-# Hi, I'm Naseeka Narmin 👋
+# Hi, I'm Naseeka Narmin
 
 Backend & Cloud Support Enthusiast | Python | SQL | AWS
 
@@ -6,7 +6,7 @@ I enjoy building practical applications that manage data, monitor activity, and 
 
 ---
 
-## 🛠 Skills
+## Skills
 
 * Python
 * SQL & Database Management
@@ -16,33 +16,33 @@ I enjoy building practical applications that manage data, monitor activity, and 
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 🔍 Smart Log Analyzer
+### Smart Log Analyzer
 
 https://github.com/narmin18/smart-log-analyzer
 A Python-based tool that generates server logs, detects suspicious activity, and visualizes system health.
 Focus: Monitoring and support engineering concepts.
 
-### 🗄 Student Database Management System
+### Student Database Management System
 
 https://github.com/narmin18/student-database-system
 Python + SQLite CRUD application simulating a real admin backend system.
 Focus: Database operations and structured data handling.
 
-### 📦 Inventory Management System (Java)
+### Inventory Management System (Java)
 
 https://github.com/narmin18/inventory-management-system-java
 Console-based system to manage product records and stock updates.
 Focus: Structured programming and logic building.
 
-### 🌦 Weather Now
+### Weather Now
 
 https://github.com/narmin18/Weather-Now
 Application that fetches and displays weather data using an external API.
 Focus: API integration and data fetching.
 
-### 📝 Complaint Registry System
+### Complaint Registry System
 
 https://github.com/narmin18/Complaint-registory
 System used to record and track user complaints.
@@ -50,13 +50,13 @@ Focus: Record management workflow.
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 Database optimization, backend workflows, and cloud monitoring concepts.
 
 ---
 
-## 📫 Contact
+## Contact
 
 Email: [naseekanarmin03@gmail.com](mailto:naseekanarmin03@gmail.com)
 LinkedIn: https://linkedin.com/in/naseeka-narmin/
