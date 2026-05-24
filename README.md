@@ -1,8 +1,8 @@
 # Hi, I'm Naseeka Narmin
 
-Backend & Cloud Support Enthusiast | Python | SQL | AWS
+CSE (AI) Student | AI & Application Development
 
-I enjoy building practical applications that manage data, monitor activity, and simulate real-world backend workflows. I am currently focusing on strengthening my Python, database, and cloud fundamentals while learning how real systems operate in production environments.
+Computer Science Engineering student specializing in Artificial Intelligence with hands on exposure through internships projects and application development. Interested in AI driven solutions intelligent systems and practical problem solving with a strong focus on continuous learning and technical growth.
 
 ---
 
@@ -10,9 +10,12 @@ I enjoy building practical applications that manage data, monitor activity, and 
 
 * Python
 * SQL & Database Management
+* Artificial Intelligence
+* Machine Learning Basics
 * Java (OOP & Console Applications)
-* AWS Fundamentals
 * Problem Solving & Debugging
+* API Integration
+* Backend Workflows
 
 ---
 
@@ -21,46 +24,53 @@ I enjoy building practical applications that manage data, monitor activity, and 
 ### Smart Log Analyzer
 
 https://github.com/narmin18/smart-log-analyzer
-A Python-based tool that generates server logs, detects suspicious activity, and visualizes system health.
-Focus: Monitoring and support engineering concepts.
+
+A Python based tool that generates server logs detects suspicious activity and visualizes system health while simulating real world monitoring workflows.
 
 ### Student Database Management System
 
 https://github.com/narmin18/student-database-system
-Python + SQLite CRUD application simulating a real admin backend system.
-Focus: Database operations and structured data handling.
+
+Python + SQLite CRUD application designed to simulate structured backend database operations and record management workflows.
 
 ### Inventory Management System (Java)
 
 https://github.com/narmin18/inventory-management-system-java
-Console-based system to manage product records and stock updates.
-Focus: Structured programming and logic building.
+
+Console based application developed to manage inventory records stock updates and product handling using object oriented programming concepts.
 
 ### Weather Now
 
 https://github.com/narmin18/Weather-Now
-Application that fetches and displays weather data using an external API.
-Focus: API integration and data fetching.
+
+Application that fetches and displays real time weather information using external API integration and dynamic data handling.
 
 ### Complaint Registry System
 
 https://github.com/narmin18/Complaint-registory
-System used to record and track user complaints.
-Focus: Record management workflow.
+
+Application developed for recording tracking and managing complaint related workflows with structured data handling.
 
 ### Query Performance Analyzer
+
 https://github.com/narmin18/query-performance-analyzer
-Analyzes SQL query performance and recommends optimization strategies.
+
+Project focused on analyzing SQL query performance and understanding optimization strategies for efficient database operations.
 
 ---
 
 ## Currently Learning
 
-Database optimization, backend workflows, and cloud monitoring concepts.
+Currently strengthening my understanding of Artificial Intelligence application development backend systems and database workflows through continuous hands on learning and project based practice.
+
+Actively exploring AI concepts problem solving approaches API integration and scalable application design while improving technical fundamentals and analytical thinking.
+
+Focused on building practical knowledge that can be applied in real world development environments and collaborative engineering workflows.
 
 ---
 
 ## Contact
 
-Email: [naseekanarmin03@gmail.com](mailto:naseekanarmin03@gmail.com)
+Email: naseekanarmin03@gmail.com
+
 LinkedIn: https://linkedin.com/in/naseeka-narmin/
